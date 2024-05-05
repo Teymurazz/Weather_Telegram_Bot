@@ -1,0 +1,1 @@
+This telegram bot was registered in BotFather. The bot token was also obtained from there. The API key was taken from the site https://openweathermap.org/ after registration. The bot contacts this site and provides information about the weather in a certain city.
